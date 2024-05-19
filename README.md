@@ -4,7 +4,7 @@
 
 ### Setting up the project
 
-- Clone this repository: `git clone https://github.com/Mehrab-Evan/Audioshell_Backend_2024.git`
+- Clone this repository: `git clone git@github.com:Mehrab-Evan/Deep-Learning-VGG16-for-simple-vehichle-classification.git`
 - Move the project directory: `cd AudioShell_Backend`
 - Create the virtual environment and activate it:
 - For windows: `python -m venv venv` & `.\venv\Scripts\activate`
